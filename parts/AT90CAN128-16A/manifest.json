@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_AVR/AT90CAN128-16A:AT90CAN128-16A",
+  "name": "AT90CAN128-16A",
+  "library": "MCU_Microchip_AVR",
+  "file": "MCU_Microchip_AVR.kicad_symdir/AT90CAN128-16A.kicad_sym",
+  "description": "16MHz, 128kB Flash, 4kB SRAM, 4kB EEPROM, JTAG, CAN, TQFP-64",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/doc7679.pdf",
+  "keywords": "AVR 8bit Microcontroller MegaAVR",
+  "footprint": "Package_QFP:TQFP-64_14x14mm_P0.8mm",
+  "extends": "AT90CAN32-16A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-avr@master/parts/AT90CAN128-16A/",
+  "part_path": "parts/AT90CAN128-16A",
+  "symbol_file": "parts/AT90CAN128-16A/AT90CAN128-16A.kicad_sym",
+  "source_library": "MCU_Microchip_AVR.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:27.696Z"
+}

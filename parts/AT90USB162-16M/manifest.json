@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_AVR/AT90USB162-16M:AT90USB162-16M",
+  "name": "AT90USB162-16M",
+  "library": "MCU_Microchip_AVR",
+  "file": "MCU_Microchip_AVR.kicad_symdir/AT90USB162-16M.kicad_sym",
+  "description": "16MHz, 16kB Flash, 512B SRAM, 512B EEPROM, USB 2.0, QFN-32",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/doc7707.pdf",
+  "keywords": "AVR 8bit Microcontroller USB",
+  "footprint": "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm",
+  "extends": "AT90USB82-16M",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-avr@master/parts/AT90USB162-16M/",
+  "part_path": "parts/AT90USB162-16M",
+  "symbol_file": "parts/AT90USB162-16M/AT90USB162-16M.kicad_sym",
+  "source_library": "MCU_Microchip_AVR.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:27.723Z"
+}

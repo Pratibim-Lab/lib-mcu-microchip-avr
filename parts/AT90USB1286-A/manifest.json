@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_AVR/AT90USB1286-A:AT90USB1286-A",
+  "name": "AT90USB1286-A",
+  "library": "MCU_Microchip_AVR",
+  "file": "MCU_Microchip_AVR.kicad_symdir/AT90USB1286-A.kicad_sym",
+  "description": "16MHz, 128kB Flash, 8kB SRAM, 4kB EEPROM, USB 2.0, TQFP-64",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/doc7593.pdf",
+  "keywords": "AVR 8bit Microcontroller USB",
+  "footprint": "Package_QFP:TQFP-64_14x14mm_P0.8mm",
+  "extends": "AT90USB646-A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-avr@master/parts/AT90USB1286-A/",
+  "part_path": "parts/AT90USB1286-A",
+  "symbol_file": "parts/AT90USB1286-A/AT90USB1286-A.kicad_sym",
+  "source_library": "MCU_Microchip_AVR.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:27.711Z"
+}

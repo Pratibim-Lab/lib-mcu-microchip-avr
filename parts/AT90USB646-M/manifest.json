@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_AVR/AT90USB646-M:AT90USB646-M",
+  "name": "AT90USB646-M",
+  "library": "MCU_Microchip_AVR",
+  "file": "MCU_Microchip_AVR.kicad_symdir/AT90USB646-M.kicad_sym",
+  "description": "16MHz, 64kB Flash, 4kB SRAM, 2kB EEPROM, USB 2.0, QFN-64",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/doc7593.pdf",
+  "keywords": "AVR 8bit Microcontroller USB",
+  "footprint": "Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP7.5x7.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-avr@master/parts/AT90USB646-M/",
+  "part_path": "parts/AT90USB646-M",
+  "symbol_file": "parts/AT90USB646-M/AT90USB646-M.kicad_sym",
+  "source_library": "MCU_Microchip_AVR.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:27.726Z"
+}
